@@ -8,4 +8,4 @@ s = "https://developers.turing.com"
 url = pyqrcode.create(s) 
   
 # Create and save the png file naming "myqr.png" 
-url.svg("myyoutube.svg", scale = 8)
+url.svg("turing.svg", scale = 8)
